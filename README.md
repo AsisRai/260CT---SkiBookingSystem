@@ -1,2 +1,2 @@
 # 260CT---SkiBookingSystem
-Second Year Group Project - Jubad Miah, Rakshak Nalukurr, Asis Rai(Group Members)
+Second Year Group Project by Jubad Miah, Rakshak Nalukurr, Asis Rai
