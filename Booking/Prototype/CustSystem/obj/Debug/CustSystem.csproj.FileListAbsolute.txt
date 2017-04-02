@@ -1,0 +1,9 @@
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\bin\Debug\CustSystem.exe.config
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\bin\Debug\CustSystem.exe
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\bin\Debug\CustSystem.pdb
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\obj\Debug\CustSystem.csprojResolveAssemblyReference.cache
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\obj\Debug\CustSystem.Form1.resources
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\obj\Debug\CustSystem.Properties.Resources.resources
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\obj\Debug\CustSystem.csproj.GenerateResource.Cache
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\obj\Debug\CustSystem.exe
+c:\users\jubz\documents\visual studio 2015\Projects\CustSystem\CustSystem\obj\Debug\CustSystem.pdb
